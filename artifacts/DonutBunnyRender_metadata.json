@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[10]",
+						"name": "renderCode",
+						"type": "uint256[10]"
+					},
+					{
+						"internalType": "string",
+						"name": "bunnyName",
+						"type": "string"
+					}
+				],
+				"name": "renderBunny",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/DonutBunnyRender.sol": "DonutBunnyRender"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/DonutBunnyRender.sol": {
+			"keccak256": "0xc03cc5556dafea9d9bcc7f1b8e3ab7771b1dbf3471a05a0a619626d9e772f014",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://000496aad357d002ffd8578af5cfcf37d31907923c3a011761f0c2b4d30c8baf",
+				"dweb:/ipfs/QmXX4GHUQaBHB9hZuRku14CsGgRtj1YbRB7VtiDz23ST4m"
+			]
+		}
+	},
+	"version": 1
+}

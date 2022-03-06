@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/DonutToken.sol": "Context"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/DonutToken.sol": {
+			"keccak256": "0x4a0ec537d537a6a6b99bd8edd22925ff767534e82e90055b72e3fedc21f233d8",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://2da25f4f669a95b31f617106c42b183c8900a771f93635af078605743b6f834d",
+				"dweb:/ipfs/QmUQfpH77gUMhJvAVVTwDVE3ViB8eZ1VNbGZaV1KHQwiWD"
+			]
+		}
+	},
+	"version": 1
+}

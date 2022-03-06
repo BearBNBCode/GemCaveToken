@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "generateSVG",
+				"outputs": [
+					{
+						"internalType": "string[2]",
+						"name": "",
+						"type": "string[2]"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SVGBuilder.sol": "SVGBuilder"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SVGBuilder.sol": {
+			"keccak256": "0x10dca0f9174aa0c4a9e0b74e8c02595c4a4a6560d1d94e2a1e5c663d0159b187",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://57783e2906b88b23478f90404f9a1a58aaf8c223756713dba94ea2dd45e0b64a",
+				"dweb:/ipfs/QmZK8b1JZgaASxqzc1HGQXxJ24M36A8BNuf3c4MmyMt7C9"
+			]
+		}
+	},
+	"version": 1
+}
